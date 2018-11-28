@@ -4,6 +4,27 @@
 
 //HOMEWORK: use fwrite for binary file
 
+int main()
+{
+	FILE *f;
+	int i, k, sum;
+	double t[6] = { 1.0, 2.0, 3.0, 4.0, 5.0, 6.0 };
+	double copy[6];
+	f = fopen("data.txt", "wt");
+	if (f == NULL) { printf("Problems with opening the file\n"); return 0; }
+	fwrite(t, sizeof(double), 6, f);
+	fclose(f);
+
+	f = fopen("data.txt", "rb");
+	if (f == NULL) { printf("Problems with opening the file\n"); return 0; }
+	fread(copy, sizeof(double), 6, f);
+	fclose(f);
+	for (i = 0; i < 6; i++)
+		printf("copy[%d]=%f\n", i, copy[i]);
+	system("pause");
+	return 0;
+}
+
 /*
 int main()
 {
