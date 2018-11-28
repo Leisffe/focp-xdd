@@ -3,6 +3,9 @@ Repositorium will be updated around 10pm after every class in order to keep it c
 
 # Changelog
 
+**22-Nov-2018**
+- Added text file with ex. assignments provided by our professor.
+
 **21-Nov-2018**
 - Added all of the examples explained during today's classes.
 - Summary of today's classes: 
