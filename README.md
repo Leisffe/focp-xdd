@@ -3,7 +3,7 @@ Repositorium will be updated around 10pm after every class in order to keep it c
 
 # Changelog
 
-**28-Nov=2018**
+**28-Nov-2018**
 - Added all of the examples explained during today's classes.
 
 **22-Nov-2018**
