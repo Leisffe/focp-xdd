@@ -3,6 +3,9 @@ Repositorium will be updated around 10pm after every class in order to keep it c
 
 # Changelog
 
+**29-Nov-2018**
+- Created folder including "other stuff".
+
 **28-Nov-2018**
 - Added all of the examples explained during today's classes.
 
