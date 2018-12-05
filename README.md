@@ -17,7 +17,7 @@ A, B, C
 **5-Dec-2018**
 - Added all of the examples explained during today's classes, including notes from the whiteboard.
 - Changes to the sorting system. 
-_ Notes from the whiteboard are now located in seperate file called whiteboard.cpp
+  - Notes from the whiteboard are now located in seperate file called whiteboard.cpp
 
 **29-Nov-2018**
 - Created folder including "other stuff".
