@@ -6,9 +6,7 @@ Repositorium will be updated around 10pm after every class in order to keep it c
 Example:
 - Programs:
 
-C
-B
-A
+C, B, A
 
 - Notes:
 
