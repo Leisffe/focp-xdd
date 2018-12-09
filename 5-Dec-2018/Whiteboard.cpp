@@ -20,7 +20,7 @@ delete p;
 In some cases it's better to allocate memory step-by-step.
 
 elements in series explained
-see header.jpg
+//see header.jpg
 
 //lel - list new element
 
