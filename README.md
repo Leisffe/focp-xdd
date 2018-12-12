@@ -14,6 +14,11 @@ A, B, C
 
 # Changelog
 
+**12-Dec-2018**
+- Added all of the examples explained during today's classes, including notes from the whiteboard.
+  - Example file from platform rau2 was also uploaded here, named as 'BST Example.cpp'.
+- BST and str functions were explained during today's classes.
+
 **5-Dec-2018**
 - Added all of the examples explained during today's classes, including notes from the whiteboard.
 - Changes to the sorting system. 
