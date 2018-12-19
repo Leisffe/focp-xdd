@@ -14,6 +14,11 @@ A, B, C
 
 # Changelog
 
+**19-Dec-2018**
+- Added all of the examples explained during today's classes, including notes from the whiteboard.
+  - Project with examples for working on more than one source files and header included.
+  - MPrecision_src from platform rau2 included.
+  
 **12-Dec-2018**
 - Added all of the examples explained during today's classes, including notes from the whiteboard.
   - Example file from platform rau2 was also uploaded here, named as 'BST Example.cpp'.
