@@ -14,6 +14,9 @@ A, B, C
 
 # Changelog
 
+**1-Jan-2019**
+- Added all of the examples explained during today's classes, including notes from the whiteboard.
+
 **19-Dec-2018**
 - Added all of the examples explained during today's classes, including notes from the whiteboard.
   - Project with examples for working on more than one source files and header included.
