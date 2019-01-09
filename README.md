@@ -14,7 +14,9 @@ A, B, C
 
 # Changelog
 
-**1-Jan-2019**
+**9-Jan-2918**
+- Added all of the examples explained during today's classes.
+**2-Jan-2019**
 - Added all of the examples explained during today's classes, including notes from the whiteboard.
 
 **19-Dec-2018**
